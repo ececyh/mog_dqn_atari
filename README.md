@@ -1,7 +1,5 @@
 # Distributional DQN
-Implementation of 'A Distributional Perspective on Reinforcement Learning' and
-'Distributional Reinforcement Learning with Quantile Regression'
-based on OpenAi DQN baseline.
+Implementation of 'Distributional Reinforcement Learning with Mixture of Gaussians' 
 
 ### Installation
 Install the OpenAi fork https://github.com/ececyh/baselines (parent changes a lot, compatibility isn't guaranteed)
